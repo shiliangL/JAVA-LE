@@ -1,4 +1,4 @@
-package com.wechat;
+package com.ddesign;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class WechatApplicationTests {
+public class DDesignApplicationTests {
 
 	@Test
 	public void contextLoads() {
